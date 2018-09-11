@@ -1,0 +1,43 @@
+.header
+{
+  font-family: "Verdana";
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: centered;
+}
+h1 {
+  font-family: "Verdana";
+  font-weight: normal;
+  font-size: 50px;
+  color:white;
+  text-align: centered;
+}
+.cta{
+  color: aquamarine;
+  font-size:16px;
+}
+h2
+{
+  font-family: "Verdana";
+  font-weight:300;
+  font-size: 42px;
+  color:white;
+}
+body {
+  background-color: black;
+  text-align: center;
+
+}
+.Iphone{
+  image-orientation: center;
+}
+p{
+  font-family: "Verdana";
+  font-size: 21px;
+  color: Gray;
+}
+.footer{
+  text-align: right;
+  color: gray;
+}
